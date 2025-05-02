@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CarmenZak
-- 👀 I’m interested in connecting with like minded individuals
-- 🌱 I’m currently learning...everything! Im about to embark on the School of Code's Bootcamp 18
+- 👀 I’m a trained Spanish teacher and a career changer - enteering the tech world via a full stack engineering bootcamp
+- 🌱 I’m currently learning Python and cyber security fundamentals
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm half Spanish and am a trained Spanish teacher..hola!
+- ⚡ Fun fact: I'm half Spanish...hola!
 
 <!---
 CarmenZak/CarmenZak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
